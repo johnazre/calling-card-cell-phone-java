@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "calling-card",
+                "projectName": "calling-card",
+                "workingDirectory": "c:\\Users\\Owner\\Desktop\\projects\\callingcard",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "calling-card",
+                "projectName": "calling-card",
+                "workingDirectory": "c:\\Users\\Owner\\Desktop\\projects\\callingcard",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
